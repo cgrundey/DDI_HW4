@@ -1,0 +1,22 @@
+C:/Users/cjgru/Documents/Senior/Digital_Design_I/HW4/step3/problem3_cgrundey.v {1 {vlog -work work -stats=none C:/Users/cjgru/Documents/Senior/Digital_Design_I/HW4/step3/problem3_cgrundey.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module problem3_cgrundey
+
+Top level modules:
+	problem3_cgrundey
+
+} {} {}} C:/Users/cjgru/Documents/Senior/Digital_Design_I/HW4/step3/tb_logicfunction_cgrundey.v {1 {vlog -work work -stats=none C:/Users/cjgru/Documents/Senior/Digital_Design_I/HW4/step3/tb_logicfunction_cgrundey.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_logicfunction_cgrundey
+
+Top level modules:
+	tb_logicfunction_cgrundey
+
+} {} {}} C:/Users/cjgru/Documents/Senior/Digital_Design_I/HW4/step3/mux8to1_cgrundey.v {1 {vlog -work work -stats=none C:/Users/cjgru/Documents/Senior/Digital_Design_I/HW4/step3/mux8to1_cgrundey.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux8to1_cgrundey
+
+Top level modules:
+	mux8to1_cgrundey
+
+} {} {}}

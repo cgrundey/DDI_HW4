@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/cjgru/Documents/Senior/Digital_Design_I/HW3/problem7
+vdecoder4to16_cgrundey
+Z0 !s110 1521065772
+!i10b 1
+!s100 jNUa[=EG3WTTMC2`Y3`S13
+IMD0U;E6^m0cWjMLf[1oQN2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/cjgru/Documents/Senior/Digital_Design_I/HW4/step2
+w1521061471
+8C:/Users/cjgru/Documents/Senior/Digital_Design_I/HW4/step2/decoder4to16.v
+FC:/Users/cjgru/Documents/Senior/Digital_Design_I/HW4/step2/decoder4to16.v
+L0 8
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1521065772.000000
+!s107 C:/Users/cjgru/Documents/Senior/Digital_Design_I/HW4/step2/decoder4to16.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cjgru/Documents/Senior/Digital_Design_I/HW4/step2/decoder4to16.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vproblem2_cgrundey
+R0
+!i10b 1
+!s100 AlU`I199maDC:`D53m@_J0
+Ij4dnC_8S36B?@mR>KeDko3
+R1
+R2
+w1520998639
+8C:/Users/cjgru/Documents/Senior/Digital_Design_I/HW4/step2/problem2_cgrundey.v
+FC:/Users/cjgru/Documents/Senior/Digital_Design_I/HW4/step2/problem2_cgrundey.v
+L0 8
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/cjgru/Documents/Senior/Digital_Design_I/HW4/step2/problem2_cgrundey.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cjgru/Documents/Senior/Digital_Design_I/HW4/step2/problem2_cgrundey.v|
+!s101 -O0
+!i113 1
+R5
+vtb_logicfunction_cgrundey
+R0
+!i10b 1
+!s100 @BaFYfnY8lMKb=0DlBlkn0
+IC?6FW`fKAkm0X>7;e^>U@3
+R1
+R2
+w1521061326
+8C:/Users/cjgru/Documents/Senior/Digital_Design_I/HW4/step2/tb_logicfunction_cgrundey.v
+FC:/Users/cjgru/Documents/Senior/Digital_Design_I/HW4/step2/tb_logicfunction_cgrundey.v
+L0 8
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/cjgru/Documents/Senior/Digital_Design_I/HW4/step2/tb_logicfunction_cgrundey.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cjgru/Documents/Senior/Digital_Design_I/HW4/step2/tb_logicfunction_cgrundey.v|
+!s101 -O0
+!i113 1
+R5

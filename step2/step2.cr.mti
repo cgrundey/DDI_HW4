@@ -1,0 +1,22 @@
+C:/Users/cjgru/Documents/Senior/Digital_Design_I/HW4/step2/decoder4to16.v {1 {vlog -work work -stats=none C:/Users/cjgru/Documents/Senior/Digital_Design_I/HW4/step2/decoder4to16.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module decoder4to16_cgrundey
+
+Top level modules:
+	decoder4to16_cgrundey
+
+} {} {}} C:/Users/cjgru/Documents/Senior/Digital_Design_I/HW4/step2/tb_logicfunction_cgrundey.v {1 {vlog -work work -stats=none C:/Users/cjgru/Documents/Senior/Digital_Design_I/HW4/step2/tb_logicfunction_cgrundey.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_logicfunction_cgrundey
+
+Top level modules:
+	tb_logicfunction_cgrundey
+
+} {} {}} C:/Users/cjgru/Documents/Senior/Digital_Design_I/HW4/step2/problem2_cgrundey.v {1 {vlog -work work -stats=none C:/Users/cjgru/Documents/Senior/Digital_Design_I/HW4/step2/problem2_cgrundey.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module problem2_cgrundey
+
+Top level modules:
+	problem2_cgrundey
+
+} {} {}}
